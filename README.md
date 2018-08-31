@@ -1,28 +1,19 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+# [American Evolution Cerakote](http://www.americanevolutionllc.com)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[We Used The Creative Template](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
-[![Creative Preview](http://www.americanevolutionllc.com/static/three-two-five_2a.8d7e3fb0.jpg)](http://www.americanevolutionllc.com)
+[![Preview](http://www.americanevolutionllc.com/img/header_1.jpg)](http://www.americanevolutionllc.com)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-creative/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-creative.svg)](https://www.npmjs.com/package/startbootstrap-creative)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-creative.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-creative)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative?type=dev)
+**[View Live Preview](http://www.americanevolutionllc.com)**
 
 ## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
+To begin using this instance, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/creative/)
-* Install via npm: `npm i startbootstrap-creative`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-creative)
+* Clone the repo: `git clone https://github.com/saddacracker/american-evolution-static.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/saddacracker/american-evolution-static)
 
 ## Usage
 
