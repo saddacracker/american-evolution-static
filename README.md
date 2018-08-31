@@ -11,7 +11,6 @@
 ## Download and Installation
 
 To begin using this instance, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/creative/)
 * Clone the repo: `git clone https://github.com/saddacracker/american-evolution-static.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/saddacracker/american-evolution-static)
 
