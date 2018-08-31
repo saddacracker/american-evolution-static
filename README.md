@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![Creative Preview](http://www.americanevolutionllc.com/static/three-two-five_2a.8d7e3fb0.jpg)](http://www.americanevolutionllc.com)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
